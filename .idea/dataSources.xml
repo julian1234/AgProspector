@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1724087718">
+    <data-source source="LOCAL" name="PostgreSQL - AgProspector@skyeye.cifkadtga8qi.us-east-1.rds.amazonaws.com" uuid="4ecb44c3-ce12-47e5-9b08-23b20abd9144">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://skyeye.cifkadtga8qi.us-east-1.rds.amazonaws.com:5432/AgProspector</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
